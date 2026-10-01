@@ -1,0 +1,4 @@
+interface:
+  display_name: "tokens"
+  short_description: "显示当前聊天累计 Token，默认汇总子任务并注明记录更新时间"
+  default_prompt: "使用 $tokens 显示当前聊天的 Token 状态。"
